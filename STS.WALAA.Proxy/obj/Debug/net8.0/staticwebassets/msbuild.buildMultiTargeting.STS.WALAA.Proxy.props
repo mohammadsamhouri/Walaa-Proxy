@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\STS.WALAA.Proxy.props" />
+</Project>

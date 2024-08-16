@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-24T07:09:31.9097238Z;True|2024-06-23T16:45:24.7728048+03:00;True|2024-06-23T16:32:23.0882228+03:00;True|2024-06-23T16:28:35.4351073+03:00;True|2024-06-23T15:53:12.3197821+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

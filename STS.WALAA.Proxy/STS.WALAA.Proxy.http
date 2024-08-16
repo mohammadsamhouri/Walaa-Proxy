@@ -1,0 +1,6 @@
+@STS.WALAA.Proxy_HostAddress = http://localhost:5186
+
+GET {{STS.WALAA.Proxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uuPHtBdn7aiNAkumlKHBu6lx8IDIRmB07J96K0vXk9A=",
+  "Source": "STS.WALAA.Proxy",
+  "BasePath": "_content/STS.WALAA.Proxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

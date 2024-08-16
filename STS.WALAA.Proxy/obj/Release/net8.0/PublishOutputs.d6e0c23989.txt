@@ -1,0 +1,11 @@
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\STS.WALAA.Proxy.exe
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\appsettings.json
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\STS.WALAA.Proxy.dll
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\STS.WALAA.Proxy.deps.json
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\STS.WALAA.Proxy.runtimeconfig.json
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\STS.WALAA.Proxy.pdb
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Work\Walaa\SourceCode\STS.WALAA.Proxy\STS.WALAA.Proxy\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
